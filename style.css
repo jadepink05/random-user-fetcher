@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    text-align: center;
+}
+
+.container {
+    margin-top: 50px;
+}
+
+button {
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+#userData {
+    margin-top: 20px;
+    background: white;
+    padding: 15px;
+    display: inline-block;
+    border-radius: 8px;
+}
+
+#error {
+    color: red;
+    margin-top: 10px;
+}
